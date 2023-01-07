@@ -1,0 +1,15 @@
+{
+  "name": "ex4-logger-omerg",
+  "version": "1.0.0",
+  "description": "kaplat exercise 4 logger",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Omer Gabay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "winston": "^3.8.2"
+  }
+}
